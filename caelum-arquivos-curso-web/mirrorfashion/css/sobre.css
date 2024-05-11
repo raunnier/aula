@@ -1,0 +1,35 @@
+/* body{
+    color: blue;
+    background-color: yellow;}
+    p{
+        color: rgb(34, 31, 235);
+        background-color: rgb(210, 247, 77);
+    } */
+    h1{
+        font-family: serif;
+        background-image: url(../img/sobre-background.jpg);
+    }
+    h2{
+        font-family: sans-serif;
+    }
+    p{
+        font-family: monospace;
+    }
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+        border-color: red;
+        border-style: solid;
+        border-width: 1px;
+        border: 1px solid red;
+        background: gold;
+    }
+    p{
+        text-align: left;
+    }
+    p{
+        line-height: 12px;
+        letter-spacing: 3px;
+        word-spacing: 5px;
+        text-indent: 30px;
+    }
+    
